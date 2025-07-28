@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work in your research, please cite it as below."
+title: "Towards Trustworthy AI in Materials Mechanics through Domain-Guided Attention"
+authors:
+  - family-names: "Talies"
+    given-names: "Jesco"
+    orcid: https://orcid.org/0009-0000-0786-7908
+  - family-names: "Breitbarth"
+    given-names: "Eric"
+    orcid: "https://orcid.org/0000-0002-3479-9143"
+  - family-names: "Melching"
+    given-names: "David"
+    orcid: "https://orcid.org/0000-0001-5111-6511"
+version: "preprint"
+date-released: 2025-28-07
+doi: ""
+url: "https://arxiv.org/abs/***"
+type: "preprint"
+repository-code: "https://github.com/..."
+notes: ["Preprint, under review"]
+

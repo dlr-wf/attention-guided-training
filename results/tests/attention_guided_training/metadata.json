@@ -1,0 +1,32 @@
+{
+  "experiment_name": "attention_guided_training",
+  "device": "cuda:1",
+  "data_augmentation": "full",
+  "tip_size": 2,
+  "explanation_type": "gradual williams",
+  "explanation_lower_bound": 75,
+  "explanation_upper_bound": 200,
+  "model": "AGT_UNet",
+  "in_channels": 2,
+  "out_channels": 1,
+  "init_features": 64,
+  "dropout_prob": 0.3,
+  "optimizer": "Adam",
+  "learning_rate": 0.0005,
+  "amsgrad": true,
+  "prediction_loss": "DiceLoss",
+  "explanation_loss": "CSILoss",
+  "explanation_weight": 2.0,
+  "pretrain_epochs": 30,
+  "agt_epochs": 70,
+  "explanation_method": "GradCAM++",
+  "explanation_layers": [
+    "down1",
+    "down2",
+    "down3",
+    "down4",
+    "base"
+  ],
+  "tip_selection": false,
+  "heatmap_normalization": true
+}
