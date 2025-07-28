@@ -107,8 +107,6 @@ To reproduce the runs presented in the publication we compiled the necessary ste
 
 **`python 3_evaluate_correctness.py`**
 
-**`python 4_summarize.py`**
-
 which represent a combination of the `scripts/` components.
 Make sure to run theese in order, as each script requires data from previous steps.
 
