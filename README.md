@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">Attention-Guided Training</h1>
 
----
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16902960.svg)](https://doi.org/10.5281/zenodo.16902960)
 
 ## Description
 Ensuring the trustworthiness and robustness of deep learning models remains a fundamental challenge, particularly in high-stakes scientific applications. This repository presents a framework called **attention-guided training (AGT)**  that combines explainable artificial intelligence techniques with quantitative evaluation and domain-specific priors to guide model attention.
