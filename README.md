@@ -11,7 +11,7 @@ This repository demonstrates how domain specific feedback on model explanations 
   <img src="gitfigures/overview.png" alt="AGT Workflow" width="900"/>
 </p>
 
-More details on this work can be found in the corresponding publication <a href="https://your-publication-link.com" style="color: blue; text-decoration: underline;">here</a>.
+More details on this work can be found in the corresponding publication <a href="https://arxiv.org/abs/2507.20658" style="color: blue; text-decoration: underline;">here</a>.
 
 ## Citing this work
 If you find the ideas presented here compelling, please consider citing our publication:
